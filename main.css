@@ -1,0 +1,43 @@
+html, body * + *{       background: rgb(10, 1, 1);
+                        text-align: center;
+                        box-sizing: border-box;
+                        margin-top: 1.5em;
+                        color: rgb(235, 167, 43);
+                        font-family: Georgia, 'Times New Roman', Times, serif;
+                        font-size: 1.2em;
+        }
+h1 {
+    color: rgb(235, 167, 43);
+    font-size: 2.5em;
+}
+
+#quoteDisplay {
+    color: black;
+    background-image: url('background-img.jpg');
+    font: 1.8em sans-serif;
+    padding: 2em 0.5em;
+    font-style: italic;
+    font-weight: bolder; 
+}        
+
+        
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background: rgb(235, 167, 43);
+    color: black;
+    font-weight: bold;
+    border:0px;
+    text-decoration: none;
+}
+em {
+    font-size: 0.65em;
+    font-weight: lighter;
+    color: rgb(235, 167, 43);
+}
+
+footer {
+    font-size: 0.8em;
+    font-style: oblique;
+    color: white;
+}
