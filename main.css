@@ -1,15 +1,14 @@
 html, body * + *{       background: rgb(10, 1, 1);
                         text-align: center;
                         box-sizing: border-box;
-                        margin-top: 1.5em;
+                        margin-top: 1.1em;
                         color: rgb(235, 167, 43);
                         font-family: Georgia, 'Times New Roman', Times, serif;
                         font-size: 1.2em;
         }
 h1 {
-    padding-top: 0.5em;
     color: rgb(235, 167, 43);
-    font-size: 2.5em;
+    font-size: 2.2em;
 }
 
 #quoteDisplay {
