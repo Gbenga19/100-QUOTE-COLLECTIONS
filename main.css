@@ -41,3 +41,7 @@ footer {
     font-style: oblique;
     color: white;
 }
+a {
+   color: blue;
+   text-decoration:none;
+}
